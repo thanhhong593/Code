@@ -1,0 +1,10 @@
+1. Tạo thư mục D://Code/Java. Cho git theo dõi thư mục này, dùng git init.
+Tạo file java code trong thư mục D://Code/Java
+
+2. Hãy dùng lệnh add và commit code (tạo version của code). 
+Dùng lệnh git status để xem sự thay đổi trước khi add và sau khi add. Trước khi commit và sau khi commit.
+
+3. Sửa lại file java ở câu 1, và tạo thêm 1 file mới trong thư mục này.
+Tiếp tục dùng lệnh add và commit để add và commit file và thay đổi chỉnh sửa mới! Chú ý sự thay đổi.
+
+
