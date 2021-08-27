@@ -1,0 +1,25 @@
+1. Tạo một Repository trên github. Sau đó kết nối giữa Local Repo và Github Repo
+
+2. Tạo thêm một nhánh (branch) có tên là dev ở local, thêm một file java code vào nhánh này. 
+Sau đó push code nhánh này lên repository!
+
+3. Merge nhánh này vào nhánh master.
+
+4. Account github A tạo thêm 1 branch dev_print, push lên github. Account github B pull code mới nhất về. 
+Sau đó phát triển chức năng print (thêm file print)
+
+5. Account github A lúc này cũng phát triển thêm chức năng trong branch dev.
+ Merge nhánh này vào master rồi push lên github.
+
+6. Account github B pull code về, cộng với chức năng của B phát triển, sau đó push lên github.
+
+7. Account github A kiểm tra code và tiến hành merge nhánh dev_print vào master luôn.
+
+
+thêm 2 nhánh dev, dev_print
+
+
+
+
+
+
