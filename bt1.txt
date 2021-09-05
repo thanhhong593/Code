@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-kajsdhksajd
-=======
 asdsadas
 asdkalsd
->>>>>>> feature/tuan2--baitap
+
